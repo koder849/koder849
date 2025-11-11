@@ -15,7 +15,7 @@
     🎮 Music • Games • Anime • Code • Art
     🐾 Fall Guys 🗿 • Cake & Cookie & Coffee & Chaa 🐤🐥
 </pre>
-<br><br>
+<br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/koder849/koder849/main/assets/soulgem-kyoko.gif" height="25" />
 &nbsp;&nbsp;
@@ -23,7 +23,7 @@
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/koder849/koder849/main/assets/soulgem-sayaka.gif" height="25" />
 </div>
-<br><br><br>
-
+<br>
+<br>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/komal849)
 </div>
