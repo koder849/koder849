@@ -21,8 +21,6 @@
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/koder849/koder849/main/assets/kyubey.gif" height="40" />
 &nbsp;&nbsp;
-
-&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/koder849/koder849/main/assets/soulgem-sayaka.gif" height="25" />
 </div>
 <br><br><br>
